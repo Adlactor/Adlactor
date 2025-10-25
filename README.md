@@ -7,12 +7,18 @@
 
 <br>Hiya! I go by **Proteus**, and I am currently attending the Malaysian campus of the **University of Nottingham**. <br>
 
-**Intro:** <br>
-Surprisingly, I've started using GitHub actively this October; however, it's been a pretty seamless ride so far!
+## Intro: <br>
+Surprisingly, I've started using GitHub actively this October; however, it's been a pretty seamless ride so far. And for those who are wondering, ***Project Leviathan*** is the designation assigned to this project which revolves around all the projects and academic, scientific and extracurricular notes that I have contributed and worked on over the course of my studies and beyond that.
 
-**Links:** <br>
+## Links: <br>
 [Notion Hub](https://mahmoudsallam.notion.site/) - This is where I store my academic, educational, and extracurricular notes. <br>
 [LinkedIn](https://www.linkedin.com/in/mahmoud-ysallam/) - My LinkedIn! <br>
+
+## Easter Egg: <br>
+I try my best to actively reference greek mythology and general theological themes and stories whenever I can as I am deeply fascinated by them! :D
+
+
+
 <!--
 **Adlactor/Adlactor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
