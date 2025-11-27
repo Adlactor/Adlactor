@@ -1,5 +1,3 @@
-# ✒️ Welcome to Project Leviathan! 🛡
-
 ## 
 [![name](https://github.com/user-attachments/assets/ba19c9f9-94ca-4b74-abde-c049078bd1d1)](https://www.reddit.com/r/SCPDeclassified/comments/6s5at6/scp001_kalinin_past_and_future_part_9_the_man_at/)
 <br>
